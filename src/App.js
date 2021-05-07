@@ -68,8 +68,8 @@ function App() {
             right: 0,
             textAlign: "center",
             zindex: 9,
-            width: 640,
-            height: 480,
+            width: "50vw",
+            height: "60vw",
           }}
         />
 
@@ -83,8 +83,8 @@ function App() {
             right: 0,
             textAlign: "center",
             zindex: 8,
-            width: 640,
-            height: 480,
+            width: "50vw",
+            height: "35vw",
           }}
         />
       </header>
